@@ -14,7 +14,6 @@ System.out.println("2. View Books");
 System.out.println("3. Issue Book");
 System.out.println("4. Return Book");
 System.out.println("5. Exit");
-             // adding test comment
 System.out.print("Choose option: ");
 int choice =  sc.nextInt();
 
